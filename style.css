@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #f5eec2;
+    color: #39395f;
+}
+
+.centerleft-align {
+    display: inline-block;
+    text-align: left;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #a9c25d;
+}
+
+.box1 {
+    display: inline-block;
+    padding-left: auto;
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #416a59;
+    border-radius: 25px;
+    background-color: #a9c25d;
+}
